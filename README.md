@@ -1,2 +1,2 @@
 
-## CARBON FOOTPRINT CALCULATOR
+## Carbon Footprint Calculator
